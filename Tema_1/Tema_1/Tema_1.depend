@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669215356 source:d:\oop\tema_1\tema_1\main.cpp
+	<iostream>
+	"b.h"
+
+1669215493 d:\oop\tema_1\tema_1\b.h
+	<iostream>
+	"a.h"
+
+1669215487 d:\oop\tema_1\tema_1\a.h
+	<iostream>
+
